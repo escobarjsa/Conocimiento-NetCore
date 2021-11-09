@@ -7,9 +7,9 @@
 ## Documentaciones
 
 - **Documentación estrategias de ramificación:** [Estrategia de ramificacion](https://dev.azure.com/celuladevops/Celula/_git/EstrategiasRamificacion?path=/README.md)
-- **Documentación del tablero de Azure DevOps:** [Tablero Azure DevOps](https://dev.azure.com/celuladevops/Celula/_git/ci-netcore?path=/TableroAzureDevOps.md)
-- **Documentación de Azure DevOps:** [Azure DevOps](https://dev.azure.com/celuladevops/Celula/_git/ci-netcore?path=/README.md)
-- **Documentación Postman y newman:** [Azure DevOps](https://dev.azure.com/celuladevops/Celula/_git/ci-netcore?path=/Postman%20y%20newman.md&_a=preview)
+- **Documentación del tablero de Azure DevOps:** [Tablero Azure DevOps](https://github.com/escobarjsa/ci-netcoreApi/blob/main/TableroAzureDevOps.md)
+- **Documentación de Azure DevOps:** [Azure DevOps](https://github.com/escobarjsa/ci-netcoreApi/blob/main/README.md)
+- **Documentación Postman y newman:** [Azure DevOps](https://github.com/escobarjsa/ci-netcoreApi/blob/main/Postman%20y%20newman.md)
 
 
 ### Configuración de ramas en Azure DevOps
