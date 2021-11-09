@@ -9,6 +9,11 @@
 - [Ship/Show/Ask](#Ship-Show-Ask).
 - [Tabla estrategias de ramificación ventajas y desventajas](#Tabla-estrategias-de-ramificación-ventajas-y-desventajas).
 
+- **Documentación estrategias de ramificación:** [Estrategia de ramificacion](https://github.com/escobarjsa/ci-netcoreApi/blob/main/Estrategias%20de%20ramificacion.md)
+- **Documentación del tablero de Azure DevOps:** [Tablero Azure DevOps](https://github.com/escobarjsa/ci-netcoreApi/blob/main/TableroAzureDevOps.md)
+- **Documentación de Azure DevOps:** [Azure DevOps](https://github.com/escobarjsa/ci-netcoreApi/blob/main/README.md)
+- **Documentación Postman y newman:** [Azure DevOps](https://github.com/escobarjsa/ci-netcoreApi/blob/main/Postman%20y%20newman.md)
+
 
 
 
